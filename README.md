@@ -14,4 +14,6 @@ The model has six main states:
 
 - walk 
 
-- air alarm
+- air alarm (not every day, may be at night)
+
+Also, there are random events that can affect my usual scedule: rain, exams and 
