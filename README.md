@@ -22,6 +22,8 @@ This is an automaton representing my simulator:
 
 ![](https://drive.google.com/uc?export=view&amp;id=1toOwliIvuqz77oQpyzP_-s58ka5GFRNU)
 
+The numbers above the arrows represents the probabilities that we will happen. If there is no arrow, the state may come definitely.
+
 
 
 
