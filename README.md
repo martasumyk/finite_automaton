@@ -18,6 +18,11 @@ The model has six main states:
 
 Also, there are random events that can affect my usual scedule: rain, air alarm etc.
 
+This is an automaton representing my simulator:
+
+![](https://drive.google.com/uc?export=view&amp;id=1toOwliIvuqz77oQpyzP_-s58ka5GFRNU)
+
+
 
 
 
