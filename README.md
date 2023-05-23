@@ -4,11 +4,11 @@ The main porpouse of this task was to simulate one day of my life using finite a
 
 The model has six main states:
 
-- eat
+- eat (breakfast, dinner and supper)
 
 - sleep
 
-- study
+- study (Discrete math, Calculus and OP)
 
 - train
 
