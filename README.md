@@ -16,4 +16,8 @@ The model has six main states:
 
 - air alarm (not every day, may be at night)
 
-Also, there are random events that can affect my usual scedule: rain, exams and 
+Also, there are random events that can affect my usual scedule: rain, air alarm etc.
+
+
+
+
