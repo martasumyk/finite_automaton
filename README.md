@@ -1,1 +1,1 @@
-# finite_automaton
+# Day simulator
